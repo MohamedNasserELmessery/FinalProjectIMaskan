@@ -1,0 +1,50 @@
+﻿@model List<Comments>
+
+@{
+
+    var userId = ViewBag.LoggedUserId as string;
+}
+
+@if (Model.Count() > 0)
+{
+    @foreach (var comment in Model)
+    {
+        if (false == false)
+        {
+            @if (comment.User.Image == null)
+            {
+                comment.User.Image = new Images()
+                {
+                    ImgPath= "default-user-image.png"
+                };
+            }
+
+            <div class="border border-top-0">
+                <div class="row p-3">
+                    <div class="col-1 mr-4">
+                        <img src="~/images/@comment.User.Image.ImgPath" style="width:50px; height:50px;" />
+                    </div>
+                    <div class="col-8" >
+                            <h5> @comment.User.UserName </h5>
+                        <div class="disabled font-italic small p-0 text-secondary">
+                            @comment.CommentDate.ToString()
+                        </div>
+                    </div>
+                    @{
+                        if (comment.UserId == userId)
+                        {
+                            <div class="col-sm-12 col-lg-2">
+                                <button class="btn btn-primary col-12" onclick="deleteComment(this,'@comment.CommentId')">Delete</button>
+                            </div>
+                        }
+                    }
+                    <div class="col-12">
+                        <div class="offset-1 bg-light p-2 mt-2 rounded d-inline-block">
+                            @comment.CommentBody
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+}

@@ -1,0 +1,70 @@
+﻿@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+
+@model IEnumerable<GradutionProject.Models.City>
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+}
+
+
+    <div class="row">
+        <div class="col-12 d-flex justify-content-center">
+            <a onclick="showpop('@Url.Action("Create","Cities",null,Context.Request.Scheme)','Create city')" class="btn btn-primary text-light">Create Cities</a>
+        </div>
+
+    </div>
+
+
+    <div class="col-sm-12 mt-4">
+        <h3 class="text-center font-weight-bold border-bottom" style="color: #4272d7;width:100%">Cities Table</h3>
+        <br />
+        <table id="city" class="table  table-bordered table-hover text-center  " style="width:100%">
+        </table>
+    </div>
+
+
+
+
+
+
+
+
+@*<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.City_name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.City_name)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.RegionId" onclick="ShowInPopEdit('@Url.Action("Edit","Cities",new {id= item.City_id },Context.Request.Scheme)','Edit City')" class="btn btn-success text-dark">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.City_id" class="btn btn-danger text-dark" onclick="Deletecity(@item.City_id)">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12 d-flex justify-content-center">
+            @Html.PagedListPager((IPagedList)ViewBag.page, page => Url.Action("Index", "Cities", new { page = page }),
+            new X.PagedList.Mvc.Core.Common.PagedListRenderOptions
+            {
+                DisplayItemSliceAndTotal = false,
+                ContainerDivClasses = new[] { "navigation" },
+                LiElementClasses = new[] { "page-item" },
+                PageClasses = new[] { "page-link" },
+            })
+        </div>
+    </div>
+</div>*@

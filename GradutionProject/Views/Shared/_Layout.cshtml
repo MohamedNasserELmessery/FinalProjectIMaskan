@@ -1,0 +1,210 @@
+﻿
+@{
+    Layout = null;
+}
+@inject Microsoft.AspNetCore.Identity.UserManager<GradutionProject.Areas.Identity.Data.ApplicationUser> userManager
+@inject Microsoft.AspNetCore.Identity.SignInManager<GradutionProject.Areas.Identity.Data.ApplicationUser> SignInManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Maskan</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicons -->
+    <link href="img/favicon.png" rel="icon">
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700" rel="stylesheet">
+
+    <!-- Bootstrap CSS File -->
+    @*<link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />*@
+    <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+
+    <!-- Libraries CSS Files -->
+    <link href="~/lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/lib/animate/animate.css" rel="stylesheet" />
+    <link href="~/lib/ionicons/css/ionicons.css" rel="stylesheet" />
+    <link href="~/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/lib/magnific-popup/magnific-popup.css" rel="stylesheet" />
+    <link href="~/lib/icofont/icofont.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tajawal">
+
+    <link rel="stylesheet" href="~/lib/icofont/icofont.min.css">
+    <!-- Main Stylesheet File -->
+    <link href="~/css/style.css" rel="stylesheet" />
+    <!-- Profile Stylesheet File -->
+
+
+    <link href="~/css/profile.css" rel="stylesheet" />
+
+
+    <link href="~/css/main.css" rel="stylesheet" />
+    <style>
+        .textStyleNew {
+            font-family: Tajawal, 'Times New Roman', Times, serif;
+        }
+        .text {
+            font-family: Tajawal, 'Times New Roman', Times, serif;
+        }
+
+        .textDirection {
+            direction: rtl;
+        }
+
+        .textColor {
+            color: #fff;
+        }
+
+    </style>
+    <!-- =======================================================
+
+    ======================================================= -->
+</head>
+
+<body id="body">
+
+    <!--==========================
+      Top Bar
+    ============================-->
+   
+
+    <!--==========================
+      Header
+    ============================-->
+    <header id="header">
+        <div class="container">
+
+            <div id="logo" class="pull-left">
+                <h1><a href="#body" class="scrollto">Mask<span>an</span></a></h1>
+            </div>
+            <nav id="nav-menu-container">
+                <ul class="nav-menu">
+                    <li>
+                        @Html.ActionLink("الصفحة الرئيسية", "index", "home",null, new { @class = "textStyleNew" })
+                      
+                    </li>
+                  
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {
+                        <li>
+                            @Html.ActionLink("لوحة التحكم", "Index", "Admin", null, new { @class = "textStyleNew" })
+                        </li>
+                    }
+                   
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("User"))
+                    {
+                        <li>
+                            @Html.ActionLink("الصفحة الشخصية", "Index", "Posts", null, new { @class = "textStyleNew" })
+                        </li>
+                    }
+                    <partial name="_LoginPartial" />
+                </ul>
+
+            </nav><!-- #nav-menu-container -->
+        </div>
+    </header><!-- #header -->
+    <!--==========================
+      Main Section
+    ============================-->
+    <div class="container-fluid">
+        <div id="main">
+            @RenderBody()
+        </div>
+    </div>
+
+    <div class="modal" tabindex="-1" role="dialog" id="form-modal" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header font-weight-bold " style="background-color: rgb(0, 191, 134);">
+
+                    <h5 class="modal-title"></h5>
+
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+
+                <div class="modal-body bg-light">
+
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="modal" tabindex="-1" role="dialog" id="Profile-modal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header font-weight-bold " style="background-color:limegreen">
+
+                    <h5 class="modal-title"></h5>
+
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+
+                <div class="modal-body bg-light">
+
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!--==========================
+      Footer
+    ============================-->
+    
+    <footer id="footer" class="cf">
+        <div class="container">
+            <div class="copyright">
+                &copy; <strong>Maskan</strong> <script type="text/javascript">document.write(new Date().getFullYear());</script>
+            </div>
+           
+        </div>
+    </footer><!-- #footer -->
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+    <!-- JavaScript Libraries -->
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    @*<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>*@
+    <script src="~/lib/jquery/jquery-migrate.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/easing/easing.js"></script>
+
+    <script src="~/lib/superfish/hoverIntent.js"></script>
+    <script src="~/lib/superfish/superfish.js"></script>
+
+    <script src="~/lib/wow/wow.js"></script>
+
+    <script src="~/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="~/lib/magnific-popup/magnific-popup.min.js"></script>
+    <script src="~/lib/sticky/sticky.js"></script>
+    <!-- Contact Form JavaScript File -->
+    <script src="~/contactform/contactform.js"></script>
+
+    <!-- Template Main Javascript File -->
+    <script src="/js/main-2.js"></script>
+    @* <script src="~/js/main/js"></script>*@
+    <script src="~/js/site.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

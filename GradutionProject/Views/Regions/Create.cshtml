@@ -1,0 +1,40 @@
+﻿@model GradutionProject.Models.Region
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = null;
+}
+
+<hr />
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="Create" onsubmit="return EditR(this)" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="RegionName" class="control-label"></label>
+                    <input asp-for="RegionName" class="form-control" />
+                    <span asp-validation-for="RegionName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CityId" class="control-label"></label>
+                    <select asp-for="CityId" class="form-control" asp-items="ViewBag.CityId"></select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Image.ImgPath" class="control-label"></label>
+                    <input asp-for="Image.ImgPath" name="imgpath" type="file" class="form-control" accept="~/images/.*" />
+                    <span asp-validation-for="Image.ImgPath" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary btn-block" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

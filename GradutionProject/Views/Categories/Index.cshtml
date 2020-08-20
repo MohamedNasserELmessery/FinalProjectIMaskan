@@ -1,0 +1,13 @@
+﻿@model IEnumerable<GradutionProject.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+
+<div class="container mt-3">
+    <div id="view-all2" class="row ">
+        @await Html.PartialAsync("ViewAllCategory", Model)
+    </div>
+</div>

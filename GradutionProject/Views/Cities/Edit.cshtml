@@ -1,0 +1,29 @@
+﻿@model GradutionProject.Models.City
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = null;
+}
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="Edit" onsubmit="return EditR(this);">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="City_id" />
+                <div class="form-group">
+                    <label asp-for="City_name" class="control-label"></label>
+                    <input asp-for="City_name" class="form-control" />
+                    <span asp-validation-for="City_name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary btn-block" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

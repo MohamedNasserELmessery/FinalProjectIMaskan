@@ -1,0 +1,102 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<!-- DataTable -->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.css">
+<link href="~/lib/datatables/css/jquery.dataTables.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.5/css/responsive.dataTables.min.css">
+
+
+<div class="app-page-title">
+    <div class="page-title-wrapper">
+        <div class="page-title-heading">
+            <div class="page-title-icon">
+                <i class="pe-7s-graph1 icon-gradient bg-mean-fruit">
+                </i>
+            </div>
+            <div>
+                Analytics Dashboard
+                <div class="page-title-subheading">
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6 col-xl-3">
+        <div class="card mb-3 widget-content bg-midnight-bloom">
+            <div class="widget-content-wrapper text-white">
+                <div class="widget-content-left">
+                    <div class="widget-heading">Total Posts</div>
+                    @*<div class="widget-subheading">Last year expenses</div>*@
+                </div>
+                <div class="widget-content-right">
+                    <div class="widget-numbers text-white"><span>@ViewBag.PostsNumber</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+        <div class="card mb-3 widget-content bg-arielle-smile">
+            <div class="widget-content-wrapper text-white">
+                <div class="widget-content-left">
+                    <div class="widget-heading">Total Users</div>
+                </div>
+                <div class="widget-content-right">
+                    <div class="widget-numbers text-white"><span>@ViewBag.UsersNumber</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+        <div class="card mb-3 widget-content bg-grow-early">
+            <div class="widget-content-wrapper text-white">
+                <div class="widget-content-left">
+                    <div class="widget-heading">Total Regions</div>
+                </div>
+                <div class="widget-content-right">
+                    <div class="widget-numbers text-white"><span>@ViewBag.RegionNumber</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class=" d-lg-block col-md-6 col-xl-3">
+        <div class="card mb-3 widget-content bg-premium-dark">
+            <div class="widget-content-wrapper text-white">
+                <div class="widget-content-left">
+                    <div class="widget-heading">Total Cities</div>
+                </div>
+                <div class="widget-content-right">
+                    <div class="widget-numbers text-warning"><span>@ViewBag.CityNumber</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-sm-12 ">
+    <h3 class="text-center font-weight-bold border-bottom" style="color: #4272d7; width:100%">Messages</h3>
+    <br />
+    <table id="mess" class="table  table-bordered table-hover text-center  " style="width:100%">
+    </table>
+</div>
+
+
+
+
+@*<div class="col-sm-12 ">
+    <h3 class="text-center font-weight-bold" style=' color: #4272d7 ; width:100%'>Messages Table</h3>
+    <br />
+    <table id="mess" class="table  table-bordered table-hover  text-center  " style="width:100%">
+    </table>
+</div>*@
+@section scripts{
+    <script src="~/lib/jquery/jquery.js"></script>
+    
+
+}

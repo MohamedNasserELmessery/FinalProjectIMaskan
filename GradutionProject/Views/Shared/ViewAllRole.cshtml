@@ -1,0 +1,33 @@
+﻿@model GradutionProject.ViewModel.CreateRoleViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+}
+
+<p>
+    <a onclick="showpop('@Url.Action("CreateRole","Roles",null,Context.Request.Scheme)','Create Role')" class="btn btn-primary">Create Role</a>
+
+</p>
+<table class="table table-bordered table-hover">
+    <thead>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.IdentityRole)
+        {
+            <tr>
+                <td class="text-center">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td class="text-center">
+                    @*<a class="btn btn-danger text-dark" href="/roles/delete/@item.Id">Delete</a>*@
+
+                    <button  class="btn btn-danger text-dark" onclick="Deleterole('@item.Id')"> Delete </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section scripts{ 
+    <script src="~/js/site2.js"></script>
+}

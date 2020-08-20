@@ -1,0 +1,475 @@
+﻿@model GradutionProject.Models.HomeViewModel
+
+@{
+    Layout = null;
+
+}
+@inject Microsoft.AspNetCore.Identity.UserManager<GradutionProject.Areas.Identity.Data.ApplicationUser> userManager
+@inject Microsoft.AspNetCore.Identity.SignInManager<GradutionProject.Areas.Identity.Data.ApplicationUser> SignInManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Maskan</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicons -->
+    <link href="img/favicon.png" rel="icon">
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tajawal">
+
+    <!-- Bootstrap CSS File -->
+    @*<link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">*@
+    <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <!--fontawesome -->
+    <link href="~/lib/fontawesome-5.13.0/css/all.css" rel="stylesheet" />
+    <!-- Libraries CSS Files -->
+    <link href="~/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+    <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+
+    <!-- Main Stylesheet File -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <style>
+        .textStyle {
+            font-family: Tajawal, 'Times New Roman', Times, serif;
+        }
+        .text {
+            font-family: Tajawal, 'Times New Roman', Times, serif;
+        }
+        .textDirection{
+            direction:rtl;
+        }
+        .textColor{
+            color:#fff;
+        }
+    </style>
+    <!-- =======================================================
+      Theme Name: Reveal
+      Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
+      Author: BootstrapMade.com
+      License: https://bootstrapmade.com/license/
+    ======================================================= -->
+</head>
+
+<body id="body">
+
+    <!--==========================
+      Top Bar
+    ============================-->
+
+    <!--==========================
+      Header
+    ============================-->
+    <header id="header">
+        <div class="container">
+
+            <div id="logo" class="pull-left">
+                <h1><a href="#body" class="scrollto">Mask<span>an</span></a></h1>
+            </div>
+            <nav id="nav-menu-container">
+                <ul class="nav-menu">
+                    <li class="menu-active text"><a href="#body">الصفحة الرئيسية</a></li>
+                    
+                    <li><a class="text" href="Districts/Index">المناطق</a></li>
+                    <li><a class="text" href="#contact">تواصل معنا</a></li>
+                    
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin")|| User.IsInRole("Manager"))
+                    {
+                        <li>
+                            @Html.ActionLink("لوحة التحكم", "Index", "Admin", null,new { @class= "text"})
+                        </li>
+                    }
+
+                    @*<li><a href="#contact">Contact</a></li>*@
+                    <!-- مش هيظهر الا لما الشخص يعمل تسجيل دخول   -->
+                    @if (SignInManager.IsSignedIn(User) && User.IsInRole("User"))
+                    {
+                        <li>
+                            @Html.ActionLink("الصفحة الشخصية", "Index", "Posts", null, new { @class = "text" })
+                        </li>
+                    }
+
+                    <partial name="_LoginPartial" />
+                </ul>
+                <div>
+                </div>
+
+            </nav><!-- #nav-menu-container -->
+        </div>
+    </header><!-- #header -->
+    <!--==========================
+      Intro Section
+    ============================-->
+    <section id="intro">
+
+        <div class="intro-content textDirection textStyle">
+            <h2>أول وكالة خدمات عقارية إلكترونية<br><span> فى المنصورة</span></h2>
+            @*<div>
+                <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            </div>*@
+        </div>
+
+        <div id="intro-carousel" class="owl-carousel">
+            <div class="item" style="background-image: url('img/intro-carousel/1.jpg');"></div>
+            <div class="item" style="background-image: url('img/intro-carousel/2.jpg');"></div>
+            <div class="item" style="background-image: url('img/intro-carousel/3.jpg');"></div>
+            <div class="item" style="background-image: url('img/intro-carousel/4.jpg');"></div>
+            <div class="item" style="background-image: url('img/intro-carousel/5.jpg');"></div>
+        </div>
+
+    </section><!-- #intro -->
+
+    <main id="main">
+
+        <!--==========================
+           About Section
+         ============================-->
+        <section id="about" class="wow fadeInUp">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 about-img">
+                        <img src="~/images/107375360_3139638636144050_855282685895941754_n.jpg" alt="">
+                    </div>
+
+                    <div class="col-lg-7 pt-md-3 pt-lg-3 content textStyle">
+                        <h2 class="textDirection text-right textStyle">نقدم خدمات عقارية لجميع سكان المنصورة.</h2>
+                        <h3 class="font-weight-bold textDirection text-right textStyle">أضف عقارك في دقائق للوصول إلى الملايين من المستأجرين المحتملين.</h3>
+                        <ul class="textDirection text-right textStyle">
+                            <li class="textDirection text-right textStyle">
+                                <i class="ion-android-checkmark-circle"></i> ابحث في الآلاف من قوائم العقارات الحديثة على موقعنا الإلكتروني .
+                            </li>
+                            <li class="textDirection text-right textStyle"><i class="ion-android-checkmark-circle"></i> احصر خياراتك باختيار ما هو الأكثر أهمية بالنسبة لك .</li>
+                            <li class="textDirection text-right textStyle">
+                                <i class="ion-android-checkmark-circle"></i> يمكن لأولياء الأمور أيضًا البحث عن الإيجارات التي تقع داخل منطقة مدرسة معينة.
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- #about -->
+        <!--==========================
+          Services Section
+        ============================-->
+        <section id="services">
+            <div class="container">
+                <div class="section-header textStyle textDirection text-right">
+                    <h2 class="textStyle textDirection text-right">الخدمات</h2>
+                    <p>نوفر لك الفرصة لتأجير العقار الذى تريد كما أن بإمكانك اللإعلان ببساطة عن عقارك و عرضه للأخرين</p>
+                </div>
+
+                <div class="row textDirection text-right">
+                    <div class="col-12 textDirection text-right">
+                        <div class="box wow fadeInRight textDirection text-right">
+                            <div class="icon float-right ml-2"><i class="fas fa-home textDirection text-right"></i></div>
+                            <h4 class="title textStyle textDirection text-right"><a href="#">الإيجار</a></h4>
+                            <p class="description textStyle textDirection text-right">تبحث عن شقة للإيجار ؟ يمكننا مساعدتك فى ذلك .</p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- #services -->
+        <!--==========================
+          Our Portfolio Section
+        ============================-->
+        <section id="portfolio" class="wow fadeInUp">
+            <div class="container">
+                <div class="section-header textStyle textDirection text-right">
+                    <h2 class="textStyle textDirection text-right">المناطق</h2>
+                    <p>تعتبر شقق للايجار بالمنصورة من أكثر العقارات التي تلاقي طلبا هناك من قبل الطلاب والمغتربين وذلك بفضل احتواء المدينة على جامعة المنصورة وهي إحدى أهم وأقوى المنشآت التعليمية بمصر وتنفرد باحتوائها على عدد كبير من التخصصات العلمية مثل الطب، والصيدلة، والعلوم، والهندسة، والتربية، والحقوق، والآداب وغيرهم. ويبلغ متوسط سعر تلك الشقق 1000 جنيها.</p>
+                </div>
+            </div>
+
+            <div class="container ">
+                <div class="row textDirection text-right">
+                    @foreach (var item in Model.Regions)
+                    {
+                        var defImg = "fff.png";
+                        if (item.Image != null)
+                        {
+                            defImg = item.Image.ImgPath;
+                        }
+                        <div class="col-lg-3 col-md-4">
+                            <div class="portfolio-item wow fadeInUp">
+                                <a href="Districts/Index/@item.RegionId">
+                                    <img src="~/images/@defImg" alt="" height="150" width="100" class="mt-2">
+                                    <div class="portfolio-overlay">
+                                        <div class="portfolio-info"><h2 class="wow fadeInUp" style="font-family: Tajawal , serif;">@item.RegionName</h2></div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+        </section><!-- #portfolio -->
+        <!--==========================
+         PLACES for ENTERTAINMENT Section
+        ============================-->
+      
+        <!--==========================
+          Call To Action Section
+        ============================-->
+        @if (!SignInManager.IsSignedIn(User))
+        {
+            <section id="call-to-action" class="wow fadeInUp textDirection">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-9 text-center text-lg-left">
+                            <h3 class="cta-title textStyle textDirection text-right">أكتشف المزيد ؟</h3>
+                            <p class="textStyle textDirection text-right textColor">في بعض الأحيان تحتاج إلى رأي شخص آخر لمساعدتك في معرفة ما تحتاجه ، إذا وجدت مكانك المناسب في موقعنا وموقعنا مفيد لك. اشترك لمزيد من الميزات.</p>
+                        </div>
+                        <div class="col-lg-3 cta-btn-container text-center ">
+                            <a class="cta-btn align-middle textStyle textColor" href="/Identity/Account/Register">التسجيل</a>
+                        </div>
+                    </div>
+
+                </div>
+            </section><!-- #call-to-action -->
+        }
+        <!--==========================
+          Our Team Section
+        ============================-->
+        @*<section id="team" class="wow fadeInUp">
+            <div class="container">
+                <div class="section-header textStyle textDirection text-right">
+                    <h2 class="textStyle textDirection text-right">فريق العمل</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2 col-md-6 offset-1">
+                        <div class="member">
+                            <div class="pic"><img src="./img/Agour.jpg" width="160" height="160" alt=""></div>
+                            <div class="details">
+                                <h4> Agour</h4>
+                                <span>.Net Full Stack Developer</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./img/Ziad.jpeg" width="160" height="160" alt=""></div>
+                            <div class="details">
+                                <h4>Ziad </h4>
+                                <span>.Net Full Stack Developer</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2 col-md-6">
+                        <div class="member">
+                            <div class="pic"><img src="./img/team-2.jpg" width="160" height="160" alt=""></div>
+                            <div class="details">
+                                <h4>Alaa</h4>
+                                <span>.Net Full Stack Developer</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2 col-md-6 ">
+                        <div class="member">
+                            <div class="pic"><img src="./img/Ashraf.jpg" width="160" height="160" alt=""></div>
+                            <div class="details">
+                                <h4>Ashraf</h4>
+                                <span>.Net Full Stack Developer</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2 col-md-6 ">
+                        <div class="member">
+                            <div class="pic"><img src="./img/Mohamed.jpg" width="160" height="160" alt=""></div>
+                            <div class="details">
+                                <h4>ElMessery</h4>
+                                <span>.Net Full Stack Developer</span>
+                                <div class="social">
+                                    <a href=""><i class="fa fa-twitter"></i></a>
+                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                    <a href=""><i class="fa fa-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>*@
+
+
+        
+        <!--==========================
+          Contact Section
+        ============================-->
+        <section id="contact" class="wow fadeInUp">
+            <div class="container">
+                <div class="section-header textStyle textDirection text-right">
+                    <h2 class="textStyle textDirection text-right">تواصل معنا</h2>
+                </div>
+            </div>
+
+
+            <!-- <div class="container mb-4">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div> -->
+
+            <div class="container">
+                <div class="form">
+                    <div id="sendmessage">Your message has been sent. Thank you!</div>
+                    <div id="errormessage"></div>
+                    <form action="" method="post" id="contactUs" role="form" class="contactForm">
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <input type="text" name="name" class="form-control textStyle textDirection text-right" id="name" placeholder="اسم المستخدم" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                <div class="validation">
+                                    <span asp-validation-for="@Model.Messages.UserName" class="text-danger"></span>
+
+                                </div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="email" class="form-control textStyle textDirection text-right" name="email" id="email" placeholder="البريد اللإلكترونى" data-rule="email" data-msg="Please enter a valid email" />
+                                <div class="validation">
+                                    <span asp-validation-for="@Model.Messages.Email" class="text-danger"></span>
+
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control textStyle textDirection text-right" name="subject" id="subject" placeholder="الموضوع" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                            <div class="validation">
+                                <span asp-validation-for="@Model.Messages.Subject" class="text-danger"></span>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control textStyle textDirection text-right" name="message" id="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="الرسالة"></textarea>
+                            <div class="validation">
+                                <span asp-validation-for="@Model.Messages.Message" class="text-danger"></span>
+
+                            </div>
+                        </div>
+                        <div class="text-center textStyle"><button type="submit" onclick="add()">إرسال الرسالة</button></div>
+                    </form>
+                </div>
+
+            </div>
+        </section><!-- #contact -->
+
+    </main>
+
+    <!--==========================
+      Footer
+    ============================-->
+    <footer id="footer">
+        <div class="container">
+            <div class="copyright">
+                &copy; <strong>Maskan</strong>
+                <script type="text/javascript">document.write(new Date().getFullYear());</script>
+            </div>
+        </div>
+    </footer><!-- #footer -->
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+    <!-- JavaScript Libraries -->
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/jquery/jquery-migrate.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/easing/easing.min.js"></script>
+    <script src="~/lib/superfish/hoverIntent.js"></script>
+    <script src="~/lib/superfish/superfish.min.js"></script>
+    <script src="~/lib/wow/wow.min.js"></script>
+    <script src="~/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="~/lib/magnific-popup/magnific-popup.min.js"></script>
+    <script src="~/lib/sticky/sticky.js"></script>
+    <partial name="_ValidationScriptsPartial" />
+    <!-- Contact Form JavaScript File -->
+    <script src="contactform/contactform.js"></script>
+
+    <!-- Template Main Javascript File -->
+    <script src="~/js/main-2.js"></script>
+    <script src="~/js/site.js"></script>
+    <script src="~/js/notify.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <script>
+        function add() {
+
+            var message = {
+                UserName: $("#name").val(),
+                Email: $("#email").val(),
+                Message: $("#message").val(),
+                Subject: $("#subject").val(),
+            };
+            $.ajax({
+                type: "POST",
+                url: "@Url.Action("Create", "Messages")",
+                data: JSON.stringify(message),
+                contentType: "application/json; charset=utf-8",
+                success: (data) => {
+
+                    if (data == true) {
+                        $("#name").val("")
+                        $("#email").val("")
+                        $("#message").val("")
+                        $("#subject").val("")
+                        swal({
+                            title: "Message sent successfully",
+                            text: "",
+                            icon: "success",
+                        });
+                        //$.notify("Message sent successfully", { globalPosition: 'top center', className: 'success' });
+
+                    } else {
+                        swal({
+                            title: "Message didn't send",
+                            text: "",
+                            icon: "error",
+                        });
+                        //$.notify("Message didn't send", { globalPosition: 'top center', className: 'error'  });
+                    }
+
+                    //alert(data);
+                },
+
+            });
+        }
+
+    </script>
+
+</body>
+</html>
+

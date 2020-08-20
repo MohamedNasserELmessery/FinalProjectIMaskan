@@ -1,0 +1,54 @@
+﻿@*@model IEnumerable<GradutionProject.Models.Post>*@
+@model GradutionProject.ViewModel.UserProfileViewModel
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tajawal">
+<style>
+    .textStyle {
+        font-family: Tajawal, 'Times New Roman', Times, serif;
+    }
+
+    .textDirection {
+        direction: rtl;
+    }
+
+    .textColor {
+        color: #fff;
+    }
+</style>
+<div class="col-12 text-center w-100 ">
+    @foreach (var item in Model._Posts)
+    {
+
+        <div class="col-md-9 col-sm-12 col-lg-6 float-left mb-2 ">
+            <div class="card ">
+                @*<img src="~/img/about-img.jpg" class="card-img-top" alt="...">*@
+                @if (item.Images.Count == 0)
+                {
+                    <img src="~/img/no-image.png" class="card-img-top" style="height:200px;" alt="...">
+                }
+                else
+                {
+                    <img src="~/images/@item.Images.FirstOrDefault().ImgPath" style="height:200px;" class="card-img-top" alt="...">
+                }
+                <div class="card-body text-center" style="height:150px;font-family:Tajawal, 'Times New Roman', Times, serif;">
+                    <h5 class="card-title">@item.Post_Title</h5>
+                    <h5 class="card-title text-success">@item.Price.ToString("0.00") L.E</h5>
+                    @*<h5 class="card-title">@item.Region.RegionName</h5>*@
+                    @*<p class="card-text">@item.Post_Desc</p>*@
+                </div>
+                <div class="card-footer">
+                    @Html.ActionLink(" التفاصيل", "Details", "Posts", routeValues: new { id = item.Post_Id }, new { @class = "btn btn-success p-2  textStyle" })
+                    <button class="p-2 btn  btn-danger textStyle " onclick="DeletePost(@item.Post_Id)"><i class="icofont icofont-ui-delete"></i>حذف</button>
+                    @*<input type="button" class="p-2 btn btn-danger icofont icofont-ui-delete font-weight-bold "  value=" Delete" onclick="DeletePost(@item.Post_Id)" />*@
+                    <a class="btn btn-primary text-white p-2 m-1  textStyle" onclick="ShowInPopUpEdit('@Url.Action("Edit","Posts",new {id= item.Post_Id },Context.Request.Scheme)','Edit Model')"><i class="icofont icofont-ui-edit"></i> تعديل</a>
+                </div>
+
+            </div>
+        </div>
+
+    }
+</div>
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}

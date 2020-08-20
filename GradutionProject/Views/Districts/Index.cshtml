@@ -1,0 +1,258 @@
+﻿@model GradutionProject.Models.Post
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/lib/fontawesome-5.13.0/css/all.css" rel="stylesheet" />
+<link href="~/icofont/icofont.css" rel="stylesheet" />
+<link href="~/css/cardStyle.css" rel="stylesheet" />
+<div class="container">
+    <div class="card  pl-3 pr-3 pt-2">
+        <form>
+            <div class="row">
+                <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="form-group">
+                        <label for="category">Category</label>
+                        <select class="form-control" id="category" asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId">
+                            <option value="0">Select type</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="form-group">
+                        <label for="region">Region</label>
+                        <select class="form-control" id="region" asp-for="RegionId" class="form-control" asp-items="ViewBag.RegionId">
+                            <option value="0">Select type</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="form-group">
+                        <label for="furniture">Furniture</label>
+                        <select asp-for="FurnitureState" id="furniture" class="form-control" asp-items="Html.GetEnumSelectList<Furniture>()">
+                            <option value="0">Select type</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="form-group">
+                        <label for="finishing">Finishing</label>
+                        <select asp-for="FinishingState" id="finishing" class="form-control" asp-items="Html.GetEnumSelectList<Finishig>()">
+                            <option value="0">Select type</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="form-group">
+                        <label for="minPrice">Minimum Price</label>
+                        <input type="number" min="0" value="0" class="form-control validation" id="minPrice" placeholder="Minimum Price">
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="form-group">
+                        <label for="maxPrice">Maximum Price</label>
+                        <input type="number" min="0" value="0" class="form-control validation" id="maxPrice" placeholder="Maximum Price">
+                    </div>
+                </div>
+                <div class="col-12 mt-1">
+                    <div class="form-group">
+                        <input type="button" class="btn btn-info btn-block" id="search" value="Search" onclick="filterPosts ()">
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row ">
+        <div class="col-12 " id="postsDiv">
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="mt-2 col-12 d-flex justify-content-center">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination">
+                    <li onclick="prev()" class="page-item"><a class="page-link" @*href="#"*@>Previous</a></li>
+
+                    <li id="pagesDiv" onclick="next()" class="page-item"><a class="page-link" @*href="#"*@>Next</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+
+
+@*<script src="~/lib/jquery/jquery.js"></script>*@
+
+@section scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+    var districtId = "@ViewBag.DistrictId";
+    var minPrice = 0;
+    var maxPrice = 0;
+    var category = 0;
+    var furniture = 0;
+    var finishing = 0;
+    var currantPage = 1;
+
+    function  filterPosts (){
+        category = $("#category").val();
+        furniture = $("#furniture").val();
+        finishing = $("#finishing").val();
+        minPrice = $("#minPrice").val();
+        maxPrice = $("#maxPrice").val();
+        districtId = $("#region").val();
+        LoadPosts();
+    }
+    $(document).ready(function() {
+        LoadPosts();
+        LoadPagesCount();
+    });
+
+    function LoadPosts(page) {
+        $("#postsDiv").text("");
+
+        var filter = {
+            Page: currantPage,
+            MaximumPrice: parseFloat(maxPrice),
+            MinimumPrice: parseFloat(minPrice),
+            CatagoryId: parseInt(category),
+            DistrictId: parseInt(districtId),
+            FinishingState: parseInt(finishing),
+            FurnitureState: parseInt(furniture)
+        };
+
+        $.ajax({
+            type: "POST",
+            url: "@Url.Action("LoadPosts", "Districts")",
+            data: JSON.stringify(filter),
+            contentType: "application/json; charset=utf-8",
+            success: (response) => {
+                if (response !== null && response !== undefined) {
+                    for (var i = 0; i < response.length; i++) {
+                        var post = response[i];
+                        var imgName = "no-image.png";
+                        if (post.images.length >0) {
+                            imgName = post.images[0].imgPath;
+                        }
+                        var text = `
+                         <div class="row">
+                              <div class="col-12 ">
+                                 <div class="card float-left w-100">
+                                   <div class="row ">
+
+                                     <div class="col-sm-8 pl-3">
+                                       <div class="card-block">
+                                        <h4 class="card-title">${post.price} L.E</h4>
+
+
+                                         <p class="">${post.post_Title}</p>
+                                         <p class="h6"style="direction: rtl;"><i class="fas fa-map-marker-alt"></i> ${post.street}</p>
+                                         <p class="h6 d-inline"><i class="fas fa-bath"></i> ${post.bathroomsNumbers}</p>
+                                         <p class="h6 d-inline ml-2"><i class="fas fa-bed"></i> ${post.bedroomsNumber}</p><br>
+                                         <a href="../../Posts/Details/${post.post_Id}" class="btn btn-primary btn-sm mt-2">Read More</a>
+                                       </div>
+                                     </div>
+
+                                     <div class="col-sm-4">
+                                       <img class="d-block " width="100%" height="250px"  src="/images/${imgName}" alt="">
+                                     </div>
+                                   </div>
+                                 </div>
+                              </div>
+                         </div>
+                                  `;
+                        $("#postsDiv").append(text);
+                    }
+                    if (response.length == 0 || response == undefined) {
+                        var text = `
+                                       <p class="h3 d-flex justify-content-center"> No Posts Found </p>
+                                  `;
+                        $("#postsDiv").append(text);
+                    }
+                }
+            }
+        });
+
+    }
+
+
+
+    function LoadPagesCount() {
+        $.ajax({
+            type: 'GET',
+            url: "@Url.Action("LoadPagesCount", "Districts")",
+            contentType: 'application/json; charset=utf-8;',
+            success: function(response) {
+                if (response !== null && response !== undefined) {
+                    for (var i = 0; i < response; i++) {
+                        var text =
+                            `
+                    <li onclick="btnPageClick(${i + 1})" class="page-item"><a class="page-link" > ${i + 1}</a></li>
+                            `;
+
+                        $("#pagesDiv").before(text);
+                    }
+                }
+            },
+            error: function() {
+            }
+        });
+
+    }
+
+
+        function btnPageClick(page) {
+            LoadPosts(page);
+            currantPage = page;
+        }
+        function next() {
+            currantPage = currantPage + 1;
+            LoadPosts();
+
+        }
+        function prev() {
+            currantPage = currantPage - 1;
+            if (currantPage<=0) {
+                currantPage = 1;
+            }
+            else {
+                LoadPosts();
+            }
+        }
+
+    </script>
+}
+
+@*<div class="row mt-3">
+        <div class="col-3">
+            <img src="/Img/PostsImgs/fff.png" width="100%" height="100%" />
+        </div>
+        <div class="col-9">
+            <div class="row">
+                <div class="col-9" style="background-color: grey">
+                    <h2>${post.post_Id}</h2>
+                    <h3>${post.post_Title}</h3>
+                    <h3>${post.post_Desc}</h3>
+                    <h4>${post.price}</h4>
+                    <h4>${post.Images.ImgPath}</h4>
+
+                </div>
+                <div class="col-3">
+
+                </div>
+            </div>
+        </div>
+    </div>*@
+
+
+@*<button onclick="btnPageClick(${i + 1})" class="btn btn-outline-primary btn-md m-1">
+    <h6 style="margin: 1px">  ${i+1}</h6>*@
+@*</button>*@

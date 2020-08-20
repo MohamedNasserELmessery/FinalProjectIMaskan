@@ -1,0 +1,30 @@
+﻿@model GradutionProject.Models.Category
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = null;
+}
+
+<hr />
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="Create" onsubmit="return EditR(this)">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="CategoryName" class="control-label"></label>
+                    <input asp-for="CategoryName" class="form-control" />
+                    <span asp-validation-for="CategoryName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary btn-block" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

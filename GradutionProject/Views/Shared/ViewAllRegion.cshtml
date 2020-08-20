@@ -1,0 +1,122 @@
+﻿@*@using X.PagedList.Mvc.Core;
+@using X.PagedList;*@
+@model IEnumerable<GradutionProject.Models.Region>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+
+}
+
+@*@using X.PagedList.Mvc.Core.Common;*@
+
+    <div class="row">
+        <div class="col-12 d-flex justify-content-center">
+            <a onclick="showpop('@Url.Action("Create","Regions",null,Context.Request.Scheme)','Create Region')" class="btn btn-primary text-light">Create Region</a>
+        </div>
+
+    </div>
+
+
+<div class="col-sm-12 mt-4">
+    <h3 class="text-center font-weight-bold border-bottom" style="color: #4272d7;width:100%">Regions Table</h3>
+    <br />
+    <table id="region" class="table  table-bordered table-hover text-center  " style="width:100%">
+    </table>
+</div>
+
+<hr style="width:100%" />
+
+
+
+
+
+
+
+
+
+
+
+@*<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RegionName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            @if (item.Image.ImgPath == null)
+                {
+                    //item.Image.ImgPath = "default-img.jpg";
+                    //item.Image.ImgPath = src = "~/images/default-img.jpg";
+                    ////item.Image = new Images()
+                    //{
+
+                    //    ImgPath ="default-img.jpg"
+                    //};
+                }
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RegionName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.City.City_name)
+                </td>
+                <td>
+                    <img src="~/images/@item.Image.ImgPath" width="100" height="50" />
+
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.RegionId" onclick="ShowInPopEdit('@Url.Action("Edit","Regions",new {id= item.RegionId },Context.Request.Scheme)','Edit Region')" class="btn btn-success text-dark">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.RegionId" class="btn btn-danger text-dark" onclick="DeleteR(@item.RegionId)">Delete</a>
+                </td>
+            </tr>
+
+
+        }
+
+    </tbody>
+    <tfoot style="text-align:center" >
+            <tr style="text-align:center">
+                <td colspan="4" style="text-align:center;padding:10px;">
+                    @Html.PagedListPager((IPagedList)ViewBag.page, Page => Url.Action("index", "Regions", new { Page }))
+                </td>
+            </tr>
+        </tfoot>
+</table>*@
+
+@*<p>@Model.Count() Region exist.</p>*@
+
+<!-- paging control for navigation to the previous page, next page, etc -->
+@*<div class="container mt-4">
+    <div class="row">
+        <div class="col-12 d-flex justify-content-center">
+            @Html.PagedListPager((IPagedList)ViewBag.page, page => Url.Action("Index", "Regions", new { page = page }),
+            new X.PagedList.Mvc.Core.Common.PagedListRenderOptions
+            {
+                DisplayItemSliceAndTotal = false,
+                ContainerDivClasses = new[] { "navigation" },
+                LiElementClasses = new[] { "page-item" },
+                PageClasses = new[] { "page-link" },
+            })
+        </div>
+    </div>
+</div>*@
+
+
+
+@*<div class="container " style="margin-left:500px;padding: 4px;">
+        @Html.PagedListPager((IPagedList)ViewBag.page, Page => Url.Action("index", "Regions", new { Page }))
+    </div>*@

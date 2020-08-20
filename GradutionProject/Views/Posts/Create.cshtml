@@ -1,0 +1,326 @@
+﻿@model GradutionProject.Models.Post
+@{
+//var listOfImages = ViewBag.ListOfImages as List<Images>;
+
+}
+@{
+    ViewData["Title"] = "Create";
+    Layout = null;
+}
+
+<div class="row">
+    <div class="col-sm-12">
+        <form asp-action="Create" onsubmit="return EditPost(this)" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="form-group">
+                        <label asp-for="Post_Title" class="control-label"></label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="fa fa-pencil"></i>
+                                </div>
+                            </div>
+                            <input asp-for="Post_Title" class="form-control" />
+                        </div>
+                        <span asp-validation-for="Post_Title" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="form-group">
+                        <label asp-for="Post_Desc" class="control-label"></label>
+                        <textarea asp-for="Post_Desc" class="form-control"></textarea>
+                        <span asp-validation-for="Post_Desc" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="form-group">
+                        <input type="file" name="Image" multiple class="form-control" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="BedroomsNumber" class="control-label"></label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="fa fa-bed"></i>
+                                </div>
+                            </div>
+                            <input asp-for="BedroomsNumber" min="1" class="form-control" />
+                        </div>
+                        <span asp-validation-for="BedroomsNumber" class="text-danger"></span>
+                    </div>
+                </div> <!--Bed Room-->
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="BathroomsNumbers" class="control-label"></label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="icofont-bathtub"></i>
+                                </div>
+                            </div>
+                            <input asp-for="BathroomsNumbers" min="1" class="form-control" />
+                        </div>
+                        <span asp-validation-for="BathroomsNumbers" class="text-danger"></span>
+                    </div>
+                </div> <!--Bath Room-->
+
+            </div>
+
+            <div class="row">
+
+                <div class="col-sm-4">
+                    <div class="form-group form-check ">
+                        <label class="form-check-label ">
+                            <input class="form-check-input " asp-for="WIFI" /> @Html.DisplayNameFor(model => model.WIFI)
+                        </label>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="form-group form-check">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="AirCondition" /> @Html.DisplayNameFor(model => model.AirCondition)
+                        </label>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="form-group form-check">
+                        <label class="form-check-label">
+                            <input class="form-check-input" asp-for="Elevator" /> @Html.DisplayNameFor(model => model.Elevator)
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="FinishingState" class="control-label"> التشطيب</label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class=" icofont-layout"></i>
+                                </div>
+                            </div>
+                            <select asp-for="FinishingState" class="form-control" asp-items="Html.GetEnumSelectList<Finishig>()"></select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="FurnitureState" class="control-label">الأثاث</label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="icofont icofont-chair"></i>
+                                </div>
+                            </div>
+                            <select asp-for="FurnitureState" class="form-control" asp-items="Html.GetEnumSelectList<Furniture>()"></select>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+                @*<div class="col-sm-6">
+                <div class="form-group">
+                    <label asp-for="FurnitureState" class="control-label"></label>
+                    <div class="input-group">
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <i class="fa fa-bed"></i>
+                            </div>
+                        </div>
+                        <input asp-for="FurnitureState" class="form-control" />
+                    </div>
+                    <span asp-validation-for="FurnitureState" class="text-danger"></span>
+                </div>
+            </div>*@
+
+            </div>
+
+            <div class="row">
+                @*<div class="col-sm-4">
+
+                <div class="form-group">
+                    <label asp-for="Likes" class="control-label"></label>
+                    <input asp-for="Likes" class="form-control" />
+                    <span asp-validation-for="Likes" class="text-danger"></span>
+                </div>
+            </div>*@
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="Floor" class="control-label"></label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="fa fa-level-up"></i>
+                                </div>
+                            </div>
+                            <input asp-for="Floor" min="1"  class="form-control" />
+                        </div>
+                        <span asp-validation-for="Floor" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="Price" class="control-label"></label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="icofont-money"></i>
+                                </div>
+                            </div>
+                            <input asp-for="Price" min="0" class="form-control" />
+                        </div>
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="BuildingNumber" class="control-label"></label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="fa fa-building"></i>
+                                </div>
+                            </div>
+                            <input asp-for="BuildingNumber" class="form-control" />
+                        </div>
+                        <span asp-validation-for="BuildingNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="Street" class="control-label"></label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="icofont-opposite"></i>
+                                </div>
+                            </div>
+                            <input asp-for="Street" class="form-control" />
+                        </div>
+                        <span asp-validation-for="Street" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="Area" class="control-label"></label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="fa fa-building"></i>
+                                </div>
+                            </div>
+                            <input asp-for="Area" type="number" min="0" class="form-control" />
+                        </div>
+                        <span asp-validation-for="Area" class="text-danger"></span>
+                    </div>
+                </div>
+
+            
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="CategoryId" class="control-label">تصنيف الشقة</label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                            </div>
+                            <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="RegionId" class="control-label">الحى </label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="fa fa-fa fa-building"></i>
+                                </div>
+                            </div>
+                            <select asp-for="RegionId" class="form-control" asp-items="ViewBag.RegionId"></select>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="CityId" class="control-label">المدينة</label>
+                        <div class="input-group">
+                            <div class="input-group-append">
+                                <div class="input-group-text">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                            </div>
+                            <select asp-for="CityId" class="form-control" asp-items="ViewBag.CityId"></select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            @*<div class="row">
+                <div class="col-sm-6">
+                    <div class="form-group">
+                        <label asp-for="Area" class="control-label"></label>
+                        <input asp-for="Area" class="form-control" />
+                        <span asp-validation-for="Area" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CityId" class="control-label"></label>
+                    <select asp-for="CityId" class="form-control" asp-items="ViewBag.CityId"></select>
+                </div>
+            </div>*@
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-block"  style="background-color: rgb(0, 191, 134);"/>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts{
+    @*<partial name="_ValidationScriptsPartial" />*@
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    
+}

@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+
+
+<div class="col-sm-12 ">
+    <h3 class="text-center font-weight-bold border-bottom" style="color: #4272d7; width:100%">Posts Table</h3>
+    <br />
+    <table id="Alaa" class="table  table-bordered table-hover text-center  " style="width:100%">
+    </table>
+</div>
+
+@*<hr style="width:100%" />
+    <div class="col-sm-12">
+        <h3 class="text-center  border-bottom" style="width:100%">Regions Table</h3>
+        <br />
+        <table id="Alaa1" class="table  table-bordered table-hover text-center " style="width:100%">
+        </table>
+    </div>*@
+
+@*<hr style="width:100%" />*@
+
+<div class="col-sm-12 mt-4">
+    <h3 class="text-center font-weight-bold border-bottom" style="color: #4272d7;width:100%">Comments Table</h3>
+    <br />
+    <table id="Alaa2" class="table  table-bordered table-hover text-center  " style="width:100%">
+    </table>
+</div>
+
+<hr style="width:100%" />
+
+
+@*<div class="col-sm-12">
+        <h3 class="text-center  border-bottom" style="width:100%">Categories Table</h3>
+        <br />
+        <table id="Alaa3" class="table  table-bordered table-hover text-center " style="width:100%">
+        </table>
+    </div>
+
+    <hr style="width:100%" />*@
+@section scripts{
+    <script>
+
+        $(document).ready(function () {
+            var table = $('#Alaa').DataTable();
+            //table.on('select', function (e, dt, type, indexes) {
+            //    if (type === 'row') {
+            //        var data = table.rows(indexes).data().pluck('post_Id');
+            //        console.log(data);
+            //        // do something with the ID of the selected items
+            //    }
+            //});
+            table.on('select', function (e, dt, type, indexes) {
+                var rowData = table.rows(indexes).data();
+                SelectedPostId = rowData[0].post_Id;
+                datatable2.ajax.reload();
+                console.log(rowData[0].post_Id);
+            });
+        });
+
+        
+    </script>
+}

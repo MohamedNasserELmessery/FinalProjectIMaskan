@@ -1,0 +1,125 @@
+﻿@model GradutionProject.ViewModel.UserProfileViewModel
+
+@{
+    ViewData["Title"] = "EditProfile";
+    Layout = null;
+}
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="EditProfile" onsubmit="return EditProfile(this);" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="_user.Id" />
+            <input type="hidden" asp-for="_user.Email" />
+            <input type="hidden" asp-for="_user.PasswordHash" />
+            <input type="hidden" asp-for="_user.UserName" />
+            <input type="hidden" asp-for="_user.NormalizedEmail" />
+            <input type="hidden" asp-for="_user.NormalizedUserName" />
+            <input type="hidden" asp-for="_user.PhoneNumber" />
+            <input type="hidden" asp-for="_user.Fname" />
+            <input type="hidden" asp-for="_user.Lname" />
+
+
+            @*<div class="row">
+            <div class="col-sm-12">
+                <div class="form-group">
+                    <label asp-for="_user.Fname" class="control-label"></label>
+                    <input class="form-control" asp-for="_user.Fname" />
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="form-group">
+                    <label asp-for="_user.Lname" class="control-label"></label>
+                    <input class="form-control" asp-for="_user.Lname" />
+                </div>
+            </div>
+        </div>*@
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="form-group">
+                        <input type="file" name="Image" class="form-control" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary btn-block" />
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+
+
+
+
+
+
+
+
+@*@model GradutionProject.ViewModel.UserProfileViewModel
+
+    @{
+        ViewData["Title"] = "EditProfile";
+        Layout = null;
+    }
+    <div class="row">
+        <div class="col-md-12">
+            <form asp-action="EditProfile" onsubmit="return EditProfile(this);" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="_user.Id" />
+                <input type="hidden" asp-for="_user.Email" />
+                <input type="hidden" asp-for="_user.PasswordHash" />
+                <input type="hidden" asp-for="_user.UserName" />
+                <input type="hidden" asp-for="_user.NormalizedEmail" />
+                <input type="hidden" asp-for="_user.NormalizedUserName" />
+                <input type="hidden" asp-for="_user.PhoneNumber" />
+
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="form-group">
+                            <img src="~/images/@Model._user.Image.ImgPath" class="rounded mb-2" width="100" height="100" />
+                            <input type="file" name="Image" class="form-control" />
+                        </div>
+                    </div>
+                </div>
+
+
+        commented------------------------------
+                <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label asp-for="_user.PhoneNumber" class="control-label"></label>
+                                <input asp-for="_user.PhoneNumber" class="form-control" />
+                                <span asp-validation-for="_user.PhoneNumber" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <label asp-for="_user.Email" class="control-label"></label>
+                                <input asp-for="_user.Email" class="form-control" />
+                                <span asp-validation-for="_user.Email" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+        ---------------------------
+
+
+
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary btn-block" />
+                </div>
+            </form>
+        </div>
+    </div>*@

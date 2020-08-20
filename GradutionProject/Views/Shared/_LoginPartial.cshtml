@@ -1,0 +1,24 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<GradutionProject.Areas.Identity.Data.ApplicationUser> SignInManager
+@inject UserManager<GradutionProject.Areas.Identity.Data.ApplicationUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <li >
+        <a  class="nav-link  text" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">@*@User.Identity.Name*@ إعدادات الحساب</a>
+    </li>
+    <li >
+        <form  class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button  type="submit" class="nav-link btn btn-link text-info text pt-2">تسجيل خروج</button>
+        </form>
+    </li>
+}
+else
+{
+    <li >
+        <a class="nav-link text" asp-area="Identity" asp-page="/Account/Register">التسجيل</a>
+    </li>
+    <li>
+        <a class="nav-link text" asp-area="Identity" asp-page="/Account/Login">تسجيل الدخول</a>
+    </li>
+}

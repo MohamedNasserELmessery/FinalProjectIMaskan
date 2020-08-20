@@ -1,0 +1,29 @@
+﻿@model GradutionProject.ViewModel.UserProfileViewModel
+@if (Model._user.Image == null)
+{
+    <img class="mb-3 rounded-pill shadow-sm mt-1" src="~/images/default-user-image.png" alt="User Image">
+}
+else
+{
+<div>
+    <img class="mb-3 shadow-sm mt-1" style="border-radius:50%; width:100px;height:100px; border:3px solid #b3d9ff;" src="~/images/@Model._user.Image.ImgPath"
+         alt="User Image">
+</div>
+}
+<div class="osahan-user-media-body">
+    @*<h6 class="mb-2">@Model._user.UserName</h6>*@
+    <h6 class="mb-2">@Model._user.Fname @Model._user.Lname</h6>
+
+    @*<p class="mb-1">@Model._user.PhoneNumber</p>*@
+
+    <button class="btn btn-primary text-white textStyle" onclick="ShowProfileEditPopUp('@Url.Action("EditProfile","Posts",new {id=Model._user.Id },Context.Request.Scheme)','Edit Profile')"><i class="icofont-ui-edit"></i> تعديل الصورة</button>
+
+
+    @*<a onclick="ShowProfileEditPopUp('@Url.Action("EditProfile","Posts",new {id=Model._user.Id },Context.Request.Scheme)','Edit Profile')"
+        class=" btn btn-primary text-white icofont-ui-edit" style="color: rgb(12, 46, 138);"> EDIT</a>*@
+
+
+</div>
+@section scripts{
+    <script src="~/js/site.js"></script>
+}
