@@ -1,0 +1,1196 @@
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.StaticWebAssets.xml
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.exe
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.deps.json
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.json
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.dev.json
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.pdb
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfoInputs.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfo.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.input.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.output.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorCoreGenerate.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Districts\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAll.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csproj.CopyComplete
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.Manifest.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.xml
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.pdb
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.genruntimeconfig.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csprojAssemblyReference.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csproj.CoreCompileInputs.cache
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Agour\Desktop\GradutionProject-master\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.StaticWebAssets.xml
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.exe
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.deps.json
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.json
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.dev.json
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.pdb
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csprojAssemblyReference.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfoInputs.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfo.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csproj.CoreCompileInputs.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.input.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.output.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorCoreGenerate.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Districts\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAll.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cs
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csproj.CopyComplete
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.Manifest.cache
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.xml
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.dll
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.pdb
+C:\Users\Agour\Desktop\GradutionProject-master-Ashraf\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.genruntimeconfig.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\appsettings.json
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\libman.json
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.StaticWebAssets.xml
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.exe
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.deps.json
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.json
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.dev.json
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.pdb
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfoInputs.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfo.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.input.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.output.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorCoreGenerate.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Districts\Index.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAll.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csproj.CopyComplete
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.Manifest.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.xml
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.dll
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.pdb
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Create.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Delete.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Details.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Edit.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Index.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csprojAssemblyReference.cache
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Create.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Delete.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Details.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Edit.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Index.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+F:\iti المنصوره\مشروع التخرج\lastModify55\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.StaticWebAssets.xml
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.exe
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.deps.json
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.json
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.dev.json
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.pdb
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csprojAssemblyReference.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfoInputs.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfo.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.input.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.output.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorCoreGenerate.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Create.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Delete.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Details.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Edit.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Districts\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Create.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Delete.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Details.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Edit.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAll.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csproj.CopyComplete
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.Manifest.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.xml
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.pdb
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.genruntimeconfig.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Comments\showCommentPost.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\ShowLikeOwners.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewTable.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewUsers.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\EditProfile.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\UserProfile.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAllCategory.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAllCities.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAllRegion.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NewAdminLayout.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Roles\CreateRole.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAllRole.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ManageUserRole.cshtml.g.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csproj.CoreCompileInputs.cache
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alrowad\Desktop\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.StaticWebAssets.xml
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.exe
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.deps.json
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.json
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.runtimeconfig.dev.json
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.pdb
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Pagination.Models.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cloudscribe.Web.Pagination.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csprojAssemblyReference.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csproj.CoreCompileInputs.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorAssemblyInfo.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfoInputs.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.AssemblyInfo.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.input.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.TagHelpers.output.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorCoreGenerate.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ManageUserRole.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewTable.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ViewUsers.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Create.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Delete.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Details.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Edit.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Cities\Index.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Comments\showCommentPost.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Districts\Index.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Create.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Delete.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Details.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Edit.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\EditProfile.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\Index.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Posts\ShowLikeOwners.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Create.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Delete.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Details.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Edit.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Regions\Index.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Roles\CreateRole.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Roles\Index.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\UserProfile.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAll.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAllCategory.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAllCities.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAllRegion.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ViewAllRole.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutOld.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NewAdminLayout.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.RazorTargetAssemblyInfo.cs
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.Views.pdb
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.csproj.CopyComplete
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.Manifest.cache
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\staticwebassets\GradutionProject.StaticWebAssets.xml
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.dll
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.pdb
+C:\Users\Alrowad\GradutionProject-master-ُFinal_Edit11\GradutionProject-master-ُFinal_Edit\GradutionProject\obj\Debug\netcoreapp3.1\GradutionProject.genruntimeconfig.cache
